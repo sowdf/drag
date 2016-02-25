@@ -4,6 +4,6 @@
 function drag(id){
     var obj = document.getElementById(id);
     obj.onmousedown = function(){
-
+        var a = 231231231;
     }
 }
